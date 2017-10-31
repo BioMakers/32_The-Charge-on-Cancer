@@ -4,12 +4,12 @@ Using Induced Dipole Moment to Electrostatically Separate Healthy and Cancer Cel
 
 ## Synopsis
 
-Our goal is to put together a sensor-pump system which would be able to adjust drug output of aminoglycosides based on real time sensing of drug in plasma. This would involve several stages, the first being the development of a functional sensor over the appropriate therapeutic range of concentrations. Similarly, a device will be designed which can attach to current hospital drip bags to control output and have configurable parameters for information such as normal drug clearance, volume of distribution, concentration of drug being delivered, and so on. The software to calculate the appropriate output will also be written.
+The current nanotechnology based strategies have introduced a number of nanoparticles of variable chemistry and architecture for cancer diagnosis and treatment. Most nanoparticles are designed to safely reach their target and specifically release their cargo at the site of the disease. But these cargos are usually coated with chemical drugs and most anticancer drugs do not kill cancer cells completely because the mechanism of cancer initiation and spread is not completely understood. Our proposed method based on physical techniques – particularly the use of electric field to induce dipole moments - have a better chance at segregating, separating and killing cancer cells without causing damage to normal cells. 
 
 Contributer | Headshot
 ------------|-----------
-Palaniappan Ganesh Nagappan | ![Palani](/Images/Palani-headshot.JPG?raw=true)
-David Chong Tian Wei | ![David](/Images/David-headshot.png?raw=true)
+Sudhakaran Prabakaran | ![Sudhakaran](/Images/Palani-headshot.JPG?raw=true)
+Sanjiv Sambandan | ![Sanjiv](/Images/David-headshot.png?raw=true)
 
 ## Software
 Software will be needed to control the arduino uno unit that is controlling the potentiostat circuit and the feedback circuit to control the pump. Several supporting software such as a desktop GUI to display data from the potentiostat and simulations will also be written
