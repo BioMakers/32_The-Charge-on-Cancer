@@ -8,7 +8,7 @@ The current nanotechnology based strategies have introduced a number of nanopart
 
 Contributer | Headshot
 ------------|-----------
-Sudhakaran Prabakaran | ![Sudhakaran](/Images/Palani-headshot.JPG?raw=true)
+Sudhakaran Prabakaran | ![Sudhakaran](/Images/Prabakaran-338_Final1.jpg?raw=true)
 Sanjiv Sambandan | ![Sanjiv](/Images/David-headshot.png?raw=true)
 
 ## Software
