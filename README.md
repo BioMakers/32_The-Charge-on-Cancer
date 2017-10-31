@@ -35,6 +35,15 @@ There are no hardware components needed for this project - although some heavy d
 2. To measure we will use a probe station with a semiconductor parameter analyzer.
 The electrodes are ready and we have access to the measurement setup.
 
+## Biological Materials
+
+1. Jurkat T Cells
+2. Ferromagnetic nanoparticles coated with avidin
+3. Biotin labeling kit
+4. Antibody agains Jurkat T cell epitope
+
+(The details of these materials are given in the subfolder)
+
 ## The Methodology is as follows: 
 Step 1: Fabricate Electrodes (spacing about 1000 micron) on a printed circuit board. A voltage will be applied across these electrodes to establish an electric field in the gap.
 
