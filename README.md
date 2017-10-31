@@ -31,7 +31,7 @@ If a dispersion of conductive metallic particles in an insulating fluid is conta
 Therefore, electric fields can be used to move and cluster metallic particles.
 References: http://dx.doi.org/10.1063/1.4958729; http://dx.doi.org/10.1063/1.4916513; 10.1109/TED.2012.2191557
 
-![](/Images/Banner.png?raw=true)
+![](/Images/Clustering-of-cells.png?raw=true)
 
 ### Electronics
 
