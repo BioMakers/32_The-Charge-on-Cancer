@@ -10,7 +10,7 @@ Contributer | Headshot
 ------------|-----------
 Sudhakaran Prabakaran | ![Sudhakaran](/Images/Cambridge_genetics.JPG?raw=true)
 Sanjiv Sambandan | ![Sanjiv](/Images/David-headshot.png?raw=true)
-![Sudhakaran Prabakaran](Team/Prabakaran-338_Final1.jpg "Sudhakaran Prabakaran")
+![Sudhakaran Prabakaran](/Images/Prabakaran-338_Final1.jpg "Sudhakaran Prabakaran")
 ![Dr. Emre Ozer](Team/Emre_Ozer.jpg "Dr. Emre Ozer")
 ![Tanya Hutter](Team/Tanya_Hutter.jpg "Tanya Hutter")
 ## Software
