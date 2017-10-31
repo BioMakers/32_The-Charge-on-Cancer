@@ -31,6 +31,11 @@ If a dispersion of conductive metallic particles in an insulating fluid is conta
 Therefore, electric fields can be used to move and cluster metallic particles.
 References: http://dx.doi.org/10.1063/1.4958729; http://dx.doi.org/10.1063/1.4916513; 10.1109/TED.2012.2191557
 
+Forming Metallic Nanoparticle- Cancer Cell Complex:
+We will use ferromagnetic nanoparticles coated with antibodies that will detect cancer cells specifically, for example antibodies that recognize newly formed blood vessel that aid in cancer development or antibodies that detect cancer stem cells. These nanoparticles will not attach themselves to the cancer cells forming a metallic nanoparticle – cancer cell complex.
+Therefore, the cancer cells are attached to metallic particles while healthy cells are not.
+
+
 ![](/Images/Clustering-of-cells.png?raw=true)
 
 ### Electronics
