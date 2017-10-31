@@ -39,11 +39,6 @@ Therefore, the cancer cells are attached to metallic particles while healthy cel
 ![](/Images/Clustering-of-cells.png?raw=true)
 
 
-### Electronics
-
-
-
-
 ## License
 
 Copyright 2017 Sanjiv Sambandan and Sudhakaran Prabakaran
