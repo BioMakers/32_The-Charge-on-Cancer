@@ -40,18 +40,18 @@ The electrodes are ready and we have access to the measurement setup.
 1. Jurkat T Cells
 2. Ferromagnetic nanoparticles coated with avidin
 3. Biotin labeling kit
-4. Antibody agains Jurkat T cell epitope
+4. Antibody targetting specific antigen expressed by Jurkat T cells
 
 (The details of these materials are given in the subfolder)
 
 ## The Methodology is as follows: 
 Step 1: Fabricate Electrodes (spacing about 1000 micron) on a printed circuit board. A voltage will be applied across these electrodes to establish an electric field in the gap.
 
-Step 2: Grow normal and cancer cells in co-cultures and drop cast these cells on the substrate to create an in vitro cell culture (Fig. 2, Left).  
+Step 2: Grow normal and cancer cells in co-cultures and drop cast these cells on the substrate to create an in vitro cell culture (Panel Figure, Left).  
 
-Step 3: Coat metal nanoparticles with antibodies and drop cast them onto the substrate. The metallic nanoparticles would then target the cancer the cells specifically.
+Step 3: Bind metal nanoparticles with antibodies (using avidin-biotin reaction) and drop cast them onto the substrate. The metallic nanoparticles would then target the cancer cells specifically based on specific antigen expressed by Jurkat T cells. 
 
-Step 4: Apply the electric field by turning on the power supply. Due to the mechanism described in Fig. 1, the metal nanoparticles should cluster and thereby pull the cancer cells with them, thereby achieving segregation and separation from healthy cells.
+Step 4: Apply the electric field by turning on the power supply. Due to the mechanism described in Panel Figure, the metal nanoparticles should cluster and thereby pull the cancer cells with them, thereby achieving segregation and separation from healthy cells.
 
 
 
