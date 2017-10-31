@@ -53,19 +53,18 @@ Step 2: Grow normal and cancer cells in co-cultures and drop cast these cells on
 
 Step 3: Bind metal nanoparticles with antibodies (using avidin-biotin reaction) and drop cast them onto the substrate. The metallic nanoparticles would then target the cancer cells specifically based on specific antigen expressed by Jurkat T cells. 
 
-Step 4: Apply the electric field by turning on the power supply. Due to the mechanism described in Panel Figure, the metal nanoparticles should cluster and thereby pull the cancer cells with them, thereby achieving segregation and separation from healthy cells.
-
-
+Step 4: Apply the electric field. Due to the mechanism described in Panel Figure, the metal nanoparticles will cluster thereby pulling the cancer cells with them. Thus cancer cells will be separated from healthy cells. 
 
 ## Benefits and outcomes 
-Existing methods to deliver drugs using nanoparticles to kill cancer cells do not kill cancer cells completely because the mechanism of cancer initiation and spread is not completely understood. 
-Our proposed method uses electric fields acting on metallic nanoparticles attached specifically to cancer cells to separate and cluster cancer cells. These cells can now be destroyed without having a significant impact on the healthy cells.
+1. Existing methods to deliver drugs using nanoparticles to kill cancer cells do not kill cancer cells completely because the mechanism of cancer initiation and spread is not completely understood. 
+
+2. Our proposed method uses electric fields acting on metallic nanoparticles attached specifically to cancer cells to separate and cluster cancer cells. These cells can now be destroyed without having a significant impact on the healthy cells.
 
 ## Potential Risks and Mitigation: 
 Without the use of fine feature fabrication, access to a fully controllable waveform – the electric field will be too low (gap between the electrodes too large) and the segregation may not be possible. Nevertheless, we will attempt to use fully insulating dispersion media to enhance electrostatic forces. 
 
 ## License
-
+None as yet!
 Copyright 2017 Sanjiv Sambandan and Sudhakaran Prabakaran
-No specific software.
+
 
