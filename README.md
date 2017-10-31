@@ -9,7 +9,7 @@ Current nanotechnology based strategies have introduced a number of nanoparticle
 
 ## Team
 
-<img src="Images/Prabakaran-338_Final1.jpg" alt="alt text" width="50%" height="50%">
+<img src="Images/Prabakaran-338_Final1.jpg" alt="alt text" width="10%" height="10%">
 
 ![Dr. Sudhakaran Prabakaran](Images/Prabakaran-338_Final1.jpg "Dr. Sudhakaran Prabakaran")
 ![Dr. Sanjiv Sambandan](Images/Sanjiv-Sambandan.jpg "Dr. Sanjiv Sambandan")
