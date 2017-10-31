@@ -9,7 +9,10 @@ The current nanotechnology based strategies have introduced a number of nanopart
 ![Dr. Sanjiv Sambandan](Images/Sanjiv-Sambandan.jpg "Dr. Sanjiv Sambandan")
 
 ## Proposal
-The proposal explores the use of electric fields to segregate cancer cells using conductive nanoparticles. The technology being explored consists of two parts: (i) The technique of embedding the nanoparticle with the cancer cells, and (ii) the technique to move the cancer call-nanoparticle complex.
+The proposal explores the use of electric fields to segregate cancer cells using conductive nanoparticles. The technology being explored consists of two parts: 
+
+1. Binding of cancer cells with nanoparticles
+2. The technique to move the cancer cell-nanoparticle complex
 
 ## Software
 No specific software. If scripts are eventually needed we will use MATLAB. 
