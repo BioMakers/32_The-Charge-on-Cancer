@@ -17,14 +17,12 @@ The proposal explores the use of electric fields to segregate cancer cells using
 ## Background
 
 ## Electrostatic Alignment of Metallic Particles:
-If a dispersion of conductive metallic particles in an insulating fluid is contained in an environment bathed in an external electric field, the field polarizes the conductive particles allowing some of them to move and chain up due to dipole-dipole attractive forces. This phenomena is described in Fig. 1 and has been used for engineering applications such as self healing circuits. 
+If a dispersion of conductive metallic particles in an insulating fluid is contained in an environment bathed in an external electric field, the field polarizes the conductive particles allowing some of them to move and chain up due to dipole-dipole attractive forces. This phenomena is described in the figure below and has been used for engineering applications such as self healing circuits. 
 Therefore, electric fields can be used to move and cluster metallic particles.
 References: http://dx.doi.org/10.1063/1.4958729; http://dx.doi.org/10.1063/1.4916513; 10.1109/TED.2012.2191557
 
 ## Forming Metallic Nanoparticle- Cancer Cell Complex:
-We will use ferromagnetic nanoparticles coated with antibodies that will detect cancer cells specifically, for example antibodies that recognize newly formed blood vessel that aid in cancer development or antibodies that detect cancer stem cells. These nanoparticles will not attach themselves to the cancer cells forming a metallic nanoparticle – cancer cell complex.
-Therefore, the cancer cells are attached to metallic particles while healthy cells are not.
-
+We will use ferromagnetic nanoparticles coated with antibodies that will detect cancer cells specifically, for example antibodies that recognize newly formed blood vessel that aid in cancer development or antibodies that detect cancer stem cells. These nanoparticles will attach themselves to the cancer cells forming a metallic nanoparticle – cancer cell complex.
 
 ![](/Images/Clustering-of-cells.png?raw=true)
 
