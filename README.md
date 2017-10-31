@@ -12,7 +12,7 @@ Dr. Sudhakaran Prabakaran (Department of Genetics)
 <img src="Images/Prabakaran-338_Final1.jpg" alt="alt text" width="15%" height="15%"> 
 
 Dr. Sanjiv Sambandan (Department of Engineering)
-<img src="Images/Sanjiv-Sambandan.jpg" alt="alt text" width="20%" height="20%"> 
+<img src="Images/Sanjiv-Sambandan.jpg" alt="alt text" width="15%" height="15%"> 
 
 ## Workflow
 The proposal explores the use of electric fields to segregate cancer cells using conductive nanoparticles. The technology being explored consists of two parts: 
