@@ -7,6 +7,10 @@ Using Induced Dipole Moment to Electrostatically Separate Healthy and Cancer Cel
 ## Synopsis
 Current nanotechnology based strategies have introduced a number of nanoparticles of variable chemistry and architecture for cancer diagnosis and treatment. Although these nanoparticles are designed to safely reach their target and specifically release their cargo at the site of the disease they are not effective because their cargoes are usually chemical drugs whose mechanism of action are unknown. Here by using special ferromagnetic nanoparticles we propose a method based on a physical technique that we have developed to separate and kill cancer cells without causing damage to normal cells. The physical technique is the ability to induce magentic dipole moment using electric fields and separate the magnetised nanoparticles that would be bound to the cancer cells.  
 
+## Team
+
+<img src="Images/Prabakaran-338_Final1.jpg" alt="alt text" width="50%" height="50%">
+
 ![Dr. Sudhakaran Prabakaran](Images/Prabakaran-338_Final1.jpg "Dr. Sudhakaran Prabakaran")
 ![Dr. Sanjiv Sambandan](Images/Sanjiv-Sambandan.jpg "Dr. Sanjiv Sambandan")
 
@@ -64,7 +68,7 @@ Step 4: Apply the electric field. Due to the mechanism described in Panel Figure
 Without the use of fine feature fabrication, access to a fully controllable waveform – the electric field will be too low (gap between the electrodes too large) and the segregation may not be possible. Nevertheless, we will attempt to use fully insulating dispersion media to enhance electrostatic forces. 
 
 ## License
-None as yet!
+None yet!
 Copyright 2017 Sanjiv Sambandan and Sudhakaran Prabakaran
 
 
