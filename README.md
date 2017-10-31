@@ -9,9 +9,11 @@ Current nanotechnology based strategies have introduced a number of nanoparticle
 
 ## Team
 Dr. Sudhakaran Prabakaran (Department of Genetics)
+
 <img src="Images/Prabakaran-338_Final1.jpg" alt="alt text" width="15%" height="10%"> 
 
 Dr. Sanjiv Sambandan (Department of Engineering)
+
 <img src="Images/Sanjiv-Sambandan.jpg" alt="alt text" width="15%" height="15%"> 
 
 ## Workflow
