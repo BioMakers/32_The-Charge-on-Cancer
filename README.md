@@ -9,7 +9,7 @@ The current nanotechnology based strategies have introduced a number of nanopart
 
 ![Dr. Emre Ozer](/Images/Prabakaran-338_Final1.jpg "Dr. Emre Ozer"){:height="50%" width="50%"}
 ![Tanya Hutter](Team/Tanya_Hutter.jpg "Tanya Hutter")
-<img src="https://github.com/BioMakers/32_The-Charge-on-Cancer/tree/master/Images/Prabakaran-338_Final1.jpg" width="100" height="100">
+<img src="https://github.com/BioMakers/32_The-Charge-on-Cancer/tree/master/Images/Cambridge_genetics.JPG" width="100" height="100">
 
 ## Software
 Software will be needed to control the arduino uno unit that is controlling the potentiostat circuit and the feedback circuit to control the pump. Several supporting software such as a desktop GUI to display data from the potentiostat and simulations will also be written
