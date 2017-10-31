@@ -38,6 +38,13 @@ Therefore, the cancer cells are attached to metallic particles while healthy cel
 
 ![](/Images/Clustering-of-cells.png?raw=true)
 
+## Benefits and outcomes 
+Existing methods to deliver drugs using nanoparticles to kill cancer cells do not kill cancer cells completely because the mechanism of cancer initiation and spread is not completely understood. 
+Our proposed method uses electric fields acting on metallic nanoparticles attached specifically to cancer cells to separate and cluster cancer cells. These cells can now be destroyed without having a significant impact on the healthy cells.
+
+## Potential Risks and Mitigation: 
+Without the use of fine feature fabrication, access to a fully controllable waveform – the electric field will be too low (gap between the electrodes too large) and the segregation may not be possible. Nevertheless, we will attempt to use fully insulating dispersion media to enhance electrostatic forces. 
+
 
 ## License
 
