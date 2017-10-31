@@ -39,19 +39,13 @@ Step 2: Grow normal and cancer cells in co-cultures and drop cast these cells on
 Step 3: Coat metal nanoparticles with antibodies and drop cast them onto the substrate. The metallic nanoparticles would then target the cancer the cells specifically.
 Step 4: Apply the electric field by turning on the power supply. Due to the mechanism described in Fig. 1, the metal nanoparticles should cluster and thereby pull the cancer cells with them, thereby achieving segregation and separation from healthy cells.
 
-
-
-
-
-
 ### Electronics
+
+## Software
+No specific software. If scripts are eventually needed we will use MATLAB. 
 
 ## License
 
 Copyright 2017 Sanjiv Sambandan and Sudhakaran Prabakaran
+No specific software.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
