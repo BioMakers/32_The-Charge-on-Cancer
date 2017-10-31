@@ -8,18 +8,23 @@ The current nanotechnology based strategies have introduced a number of nanopart
 ![Dr. Sudhakaran Prabakaran](Images/Prabakaran-338_Final1.jpg "Dr. Sudhakaran Prabakaran")
 ![Dr. Sanjiv Sambandan](Images/Sanjiv-Sambandan.jpg "Dr. Sanjiv Sambandan")
 
-## Software
-Software will be needed to control the arduino uno unit that is controlling the potentiostat circuit and the feedback circuit to control the pump. Several supporting software such as a desktop GUI to display data from the potentiostat and simulations will also be written
-
 ## Proposal
 The proposal explores the use of electric fields to segregate cancer cells using conductive nanoparticles. The technology being explored consists of two parts: (i) The technique of embedding the nanoparticle with the cancer cells, and (ii) the technique to move the cancer call-nanoparticle complex.
 
-## Hardware
+## Software
+No specific software. If scripts are eventually needed we will use MATLAB. 
 
+## Hardware
 There are no hardware components needed for this project - although some serious equipment will be used.
-1. To fabricate the electrodes I have used a DC sputtering system. The fine gaps between the electrodes (10um to 100um with +-1um accuracy) were created using photolithography that requires the use of a Mask Aligner and UV exposure./
+1. To fabricate the electrodes I have used a DC sputtering system. The fine gaps between the electrodes (10um to 100um with +-1um accuracy) were created using photolithography that requires the use of a Mask Aligner and UV exposure.
 2. To measure we will use a probe station with a semiconductor parameter analyzer.
-The electrodes are ready. I have access to the measurement setup./
+The electrodes are ready. I have access to the measurement setup.
+
+## The Methodology is as follows: 
+Step 1: Fabricate Electrodes (spacing about 1000 micron) on a printed circuit board. A voltage will be applied across these electrodes to establish an electric field in the gap.
+Step 2: Grow normal and cancer cells in co-cultures and drop cast these cells on the substrate to create an in vitro cell culture (Fig. 2, Left).  
+Step 3: Coat metal nanoparticles with antibodies and drop cast them onto the substrate. The metallic nanoparticles would then target the cancer the cells specifically.
+Step 4: Apply the electric field by turning on the power supply. Due to the mechanism described in Fig. 1, the metal nanoparticles should cluster and thereby pull the cancer cells with them, thereby achieving segregation and separation from healthy cells.
 
 ## Electrostatic Alignment of Metallic Particles:
 If a dispersion of conductive metallic particles in an insulating fluid is contained in an environment bathed in an external electric field, the field polarizes the conductive particles allowing some of them to move and chain up due to dipole-dipole attractive forces. This phenomena is described in Fig. 1 and has been used for engineering applications such as self healing circuits. 
@@ -33,16 +38,11 @@ Therefore, the cancer cells are attached to metallic particles while healthy cel
 
 ![](/Images/Clustering-of-cells.png?raw=true)
 
-## The Methodology is as follows: 
-Step 1: Fabricate Electrodes (spacing about 1000 micron) on a printed circuit board. A voltage will be applied across these electrodes to establish an electric field in the gap.
-Step 2: Grow normal and cancer cells in co-cultures and drop cast these cells on the substrate to create an in vitro cell culture (Fig. 2, Left).  
-Step 3: Coat metal nanoparticles with antibodies and drop cast them onto the substrate. The metallic nanoparticles would then target the cancer the cells specifically.
-Step 4: Apply the electric field by turning on the power supply. Due to the mechanism described in Fig. 1, the metal nanoparticles should cluster and thereby pull the cancer cells with them, thereby achieving segregation and separation from healthy cells.
 
 ### Electronics
 
-## Software
-No specific software. If scripts are eventually needed we will use MATLAB. 
+
+
 
 ## License
 
