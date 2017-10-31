@@ -8,20 +8,20 @@ Current nanotechnology based strategies have introduced a number of nanoparticle
 ![Dr. Sudhakaran Prabakaran](Images/Prabakaran-338_Final1.jpg "Dr. Sudhakaran Prabakaran")
 ![Dr. Sanjiv Sambandan](Images/Sanjiv-Sambandan.jpg "Dr. Sanjiv Sambandan")
 
-## Proposal
+## Workflow
 The proposal explores the use of electric fields to segregate cancer cells using conductive nanoparticles. The technology being explored consists of two parts: 
 
 1. Binding of cancer cells with nanoparticles
 2. The technique to move the cancer cell-nanoparticle complex
 
 ## Software
-No specific software. If scripts are eventually needed we will use MATLAB. 
+No specific software. If scripts are eventually needed we will use MATLAB and they will be made available in this Github account. 
 
 ## Hardware
-There are no hardware components needed for this project - although some serious equipment will be used.
-1. To fabricate the electrodes I have used a DC sputtering system. The fine gaps between the electrodes (10um to 100um with +-1um accuracy) were created using photolithography that requires the use of a Mask Aligner and UV exposure.
+There are no hardware components needed for this project - although some heavy duty engineering equipments will be used.
+1. To fabricate the electrodes we have used a DC sputtering system. The fine gaps between the electrodes (10um to 100um with +-1um accuracy) were created using photolithography that requires the use of a Mask Aligner and UV exposure.
 2. To measure we will use a probe station with a semiconductor parameter analyzer.
-The electrodes are ready. I have access to the measurement setup.
+The electrodes are ready and we have access to the measurement setup.
 
 ## The Methodology is as follows: 
 Step 1: Fabricate Electrodes (spacing about 1000 micron) on a printed circuit board. A voltage will be applied across these electrodes to establish an electric field in the gap.
@@ -50,7 +50,6 @@ Our proposed method uses electric fields acting on metallic nanoparticles attach
 
 ## Potential Risks and Mitigation: 
 Without the use of fine feature fabrication, access to a fully controllable waveform – the electric field will be too low (gap between the electrodes too large) and the segregation may not be possible. Nevertheless, we will attempt to use fully insulating dispersion media to enhance electrostatic forces. 
-
 
 ## License
 
