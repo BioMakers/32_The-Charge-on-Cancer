@@ -52,7 +52,7 @@ The electrodes are ready and we have access to the measurement setup.
 
 (The details of these materials are given in the subfolder)
 
-## The Methodology is as follows: 
+## Methodology 
 Step 1: Fabricate Electrodes (spacing about 1000 micron) on a printed circuit board. A voltage will be applied across these electrodes to establish an electric field in the gap.
 
 Step 2: Grow normal and cancer cells in co-cultures and drop cast these cells on the substrate to create an in vitro cell culture (Panel Figure, Left).  
