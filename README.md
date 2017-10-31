@@ -22,8 +22,11 @@ The electrodes are ready. I have access to the measurement setup.
 
 ## The Methodology is as follows: 
 Step 1: Fabricate Electrodes (spacing about 1000 micron) on a printed circuit board. A voltage will be applied across these electrodes to establish an electric field in the gap.
+
 Step 2: Grow normal and cancer cells in co-cultures and drop cast these cells on the substrate to create an in vitro cell culture (Fig. 2, Left).  
+
 Step 3: Coat metal nanoparticles with antibodies and drop cast them onto the substrate. The metallic nanoparticles would then target the cancer the cells specifically.
+
 Step 4: Apply the electric field by turning on the power supply. Due to the mechanism described in Fig. 1, the metal nanoparticles should cluster and thereby pull the cancer cells with them, thereby achieving segregation and separation from healthy cells.
 
 ## Electrostatic Alignment of Metallic Particles:
