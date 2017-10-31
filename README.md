@@ -19,59 +19,19 @@ Software will be needed to control the arduino uno unit that is controlling the 
 <tr><td><a href="/Software/infusionsimulation.R">Simulation of infusion pump sensor feedback loop using single compartment model</a></td><td><img src="/Software/Simulation.png" width="300"></td></tr>
 </table>
 
+
+
+## Proposal
+The proposal explores the use of electric fields to segregate cancer cells using conductive nanoparticles. The technology being explored consists of two parts: (i) The technique of embedding the nanoparticle with the cancer cells, and (ii) the technique to move the cancer call-nanoparticle complex.
+
+
 ## Hardware
+Electrostatic Alignment of Metallic Particles:
+If a dispersion of conductive metallic particles in an insulating fluid is contained in an environment bathed in an external electric field, the field polarizes the conductive particles allowing some of them to move and chain up due to dipole-dipole attractive forces. This phenomena is described in Fig. 1 and has been used for engineering applications such as self healing circuits. 
+Therefore, electric fields can be used to move and cluster metallic particles.
+References: http://dx.doi.org/10.1063/1.4958729; http://dx.doi.org/10.1063/1.4916513; 10.1109/TED.2012.2191557
+
 ### Electronics
-The electronics part of this project includes the potentiostat and the DC Stepper Motor-Proximity Sensor component of the infusion pump.
-
-<table>
-<tr><th>Component</th><th>Schematic</th><th>Implementation</th></tr>
-<tr><td><a href="/Hardware/Electronics/README.md">Potentiostat Circuit</a> (<a href='http://2014.igem.org/Team:UC_Davis/Potentiostat_Design'>adapted from UC Davis iGEM team 2014 OliView 2.0 Schematic</a>)</td><td><img src="/Hardware/Electronics/potentiostat-circuit-schematics.png" width=300></td><td><img src="/Hardware/Electronics/potentiostat-circuit-implementation.jpeg" width=300></td></tr>
-</table>
-
-### Infusion Pump
-The structure to hold the syringe and apply pressure on the handle
-
-<table>
-<tr><th>Component</th><th>Schematic</th><th>Implementation</th></tr>
-<tr><td>Infusion Pump</td><td><img src="/Hardware/Infusion Pump/pump-design.png" width=300></td><td><img src="Hardware/Infusion Pump/pump-prototype.jpeg" width=300></td></tr>
-</table>
-
-### Microfluidic Chip
-The microfluidic chip houses the aptamers immobilised on gold electrodes to sense drug levels. Currently we have only printed the electrodes onto glass slides. The next step will be to seal the two slides to form a channel for fluid to flow through. The stencil design can be found [here](/Hardware/Microfluidic%20Chip/electrode-template-v1.odt). Detailed instructions to be found [here](/Hardware/Microfluidic%20Chip/README.md).
-<table>
-<tr><th>Component</th><th>Image</th></tr>
-<tr><td>Printed Electrodes</td><td><img src="/Hardware/Microfluidic Chip/printed-gold-electrodes.jpeg" width="300"></td></tr>
-<tr><td>Combined Chip using OHP sheets </td><td><img src="/Hardware/Microfluidic Chip/microfluidicprototype1.jpeg" width="300"></td></tr>
-<tr><td>Combined Chip using Glass Slides</td><td><img src="/Hardware/Microfluidic Chip/microfluidicprototype2.jpeg" width="300"></td></tr>
-</table>
-
-## Integrated Parts
-<table>
-<tr><th>Description</th><th>Image</th></tr>
-<tr><td>Potentiostat attached to microfluidic chip</td><td><img src="/Images/Potentiostat_Microfluidic_Chip_Setup.jpeg" width="300"></td></tr>
-<tr><td>Potentiostat sweep using microfluidic chip with printed plain gold electrodes and Phosphate Buffered Saline</td><td><img src="/Images/PotentiostatPBSAuElectrodeCycle.png" width="300"></td></tr>
-<tr><td>Potentiostat dry cell test with 10kOhm resistor</td><td><img src="/Images/Potentiostat_Resistor_Test.jpeg" width="300"></td></tr>
-</table>
-
-## Installation, Maintenance and Testing Guide
-
-### Potentiostat Interface Software
-The interface uses the following software: python2, Tkinter, serial, io
-
-### Potentiostat Dry Cell Test
-1. Once you constructed the potentiostat circuit and connected it to the arduino according to the schematics, upload the potentiostat-controller sketch onto the arduino. 
-2. Connect the Counter and Reference electrodes to one side of a 10kOhm resistor and the working electrode to the other side to complete the circuit.
-3. Run the potentiostat interface software and connect to the appropriate device and run a sweep with default settings. The result should be something similar to the Potentiostat dry cell test with 10kOhm resistor shown above.
-
-### Potentiostat Microfluidic Chip test with Phosphate Buffered Saline and Tobramycin solutions
-The microfluidic chip and potentiostat probably do not work well together. Connect the device and software similar to the dry cell, but instead to the leads on the microfluidic chip.
-
-<table>
-<tr><th>Description</th><th>Image</th></tr>
-<tr><td>PBS Plain Gold Electrodes</td><td><img src='/Images/PBS-Au.png' width='300'></td></tr>
-<tr><td>PBS Gold Electrode after aptamer attachment</td><td><img src='/Images/PBS-Au-Aptamer.png' width='300'></td></tr>
-<tr><td>5uM Tobramycin Gold Electrode after aptamer attachment</td><td><img src='/Images/5-Au-Aptamer.png' width='300'></td></tr>
-</table>
 
 ## License
 
